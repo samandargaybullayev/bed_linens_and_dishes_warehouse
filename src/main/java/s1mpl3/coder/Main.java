@@ -8,7 +8,7 @@ public class Main {
         BaseUtils.println("\n\n*************** Project: Bed Linens and Dishes Warehouse search system *****************");
         BaseUtils.println("--------------- Author: (Gaybullaev Samandar) ---------------");
         BaseUtils.println("--------------- Email: s1mple@dr.com ---------------");
-        BaseUtils.println("--------------- Version: version-0.0.1 ---------------");
+        BaseUtils.println("--------------- Version: version-0.0.2 ---------------");
         AppUI appUI = new AppUI();
         appUI.run();
     }
